@@ -2,7 +2,7 @@
 output application/json 
 import * from dw::core::Objects
 
-var newData = vars.+a default {}
+var newData = vars.newData default {}
 var oldData = vars.oldData default {}
 
 fun getModificationDifferences(newVal,oldVal) =
