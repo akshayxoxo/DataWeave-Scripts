@@ -1,7 +1,7 @@
 
 # Get JSON object difference script
 
-Place the script in any component where dw scripts are allowed(e.g. set variable,set payload,transform message).
+Place the script(in file : get-difference-json-objects.dwl) in any component where dw scripts are allowed(e.g. set variable,set payload,transform message).
 
 The script takes data from two variables:
 
